@@ -11,6 +11,10 @@ public class App
 		int sum = app.sumar(6,5);		
 		int res = app.restar(9,5);
 		
+		System.out.printf("La suma de 6 + 5 es: ");
+        System.out.println( sum);
+        System.out.printf("La resta de 9 - 5 es: ");
+        System.out.println( res);
 		
 		
 	    
