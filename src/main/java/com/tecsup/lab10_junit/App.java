@@ -8,12 +8,13 @@ public class App
 		// TODO Auto-generated method stub
 
 		App app = new App();	
-		int sum = app.sumar(4,5);		
-		int res = app.restar(4,5);
+		int sum = app.sumar(6,5);		
+		int res = app.restar(9,5);
 		
 		
-	    System.out.println( sum);
-	    System.out.println(res);
+		
+	    
+	   
 	    
 	}
 
@@ -26,5 +27,6 @@ public class App
 		// TODO Auto-generated method stub
 		return i+j;
 	}
+	
 
 }
